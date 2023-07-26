@@ -2,9 +2,11 @@
 
 This is a simple frontend page which on button click redirects to razor pay payment page.
 
-💻 TechStack Used
+# 💻 TechStack Used
 1.HTML
+
 2.CSS
+
 3.Razor Pay API
 
 ## Screenshots
